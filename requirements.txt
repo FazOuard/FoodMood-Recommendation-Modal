@@ -1,0 +1,15 @@
+flask
+pandas
+numpy
+scikit-learn
+matplotlib
+flask_cors
+bokeh
+selenium
+plotly
+numpy
+scipy
+pandas
+sqlalchemy
+python-dotenv
+pymysql 

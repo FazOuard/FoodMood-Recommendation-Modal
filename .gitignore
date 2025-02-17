@@ -1,0 +1,27 @@
+# Dossiers
+__pycache__/
+instance/
+.venv/
+env/
+venv/
+
+# Fichiers Python compilés
+*.pyc
+*.pyo
+
+# Dossiers et fichiers liés à l'environnement virtuel
+.env
+*.env
+
+# Logs et fichiers temporaires
+*.log
+*.pot
+*.pyc
+
+# Fichiers générés par IDE
+.vscode/
+.idea/
+
+# Fichiers de configuration Flask
+*.db
+*.sqlite3
